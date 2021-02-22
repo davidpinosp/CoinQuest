@@ -1,5 +1,8 @@
 # CoinQuest
 CoinQuest is a GPS navigation and AR software app developed by Matias Cevallos and David Pinos. It provides users with the location of institutions that accept and transact with cryptocurrencies.  
+
+The program was written in Swift and utilizes the Google Maps API and Coinmaps API. 
+
 # Preview
 <br>
 The home page of our app presents an aption to submit a custom location, use your own location or acess the settings.
